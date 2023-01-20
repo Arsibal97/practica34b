@@ -4,6 +4,6 @@ public class claseArmando {
 
 	
 	public void metodo{
-		System.out.println("holalaaeeqweqweaaaa");
+		System.out.println("holalaaeeqweqweaaaaadfadsf");
 	}
 }
